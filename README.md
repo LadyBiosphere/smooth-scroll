@@ -16,10 +16,10 @@ To get the most out of this project, you should already know basic HTML markup, 
 ### Resources used for this example
 
 [Google hosted libraries](https://developers.google.com/speed/libraries/)
-- provides a range of CDN's, including the latest version of jQuery.
+ provides a range of CDN's, including the latest version of jQuery.
 
 [lorempixel](http://lorempixel.com/)
-- provides a range of free placeholder images.
+ provides a range of free placeholder images.
 
 [jquery.com](http://jquery.com/)
-- provides excellent documentation about jQuery.
+ provides excellent documentation about jQuery.
