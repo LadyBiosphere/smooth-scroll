@@ -11,15 +11,15 @@ To get the most out of this project, you should already know basic HTML markup, 
 - how to connect to an external CSS stylesheet and JavaScript file
 - HTML DIV's, classes and ID's
 - HTML anchor tags (links)
-- how to insert the jQuery CDN into your webpage
+- how and where to insert the jQuery CDN into your webpage
 
 ### Resources used for this example
 
 [Google hosted libraries](https://developers.google.com/speed/libraries/)
-This website provides a range of CDN's, including the latest version of jQuery.
+- provides a range of CDN's, including the latest version of jQuery.
 
 [lorempixel](http://lorempixel.com/)
-This website provides a range of free placeholder images.
+- provides a range of free placeholder images.
 
 [jquery.com](http://jquery.com/)
-This website provides excellent documentation about jQuery.
+- provides excellent documentation about jQuery.
